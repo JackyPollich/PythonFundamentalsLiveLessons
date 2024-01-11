@@ -53,3 +53,4 @@ for message in range(NUMBER_OF_MESSAGES):
     time.sleep(MESSAGE_DELAY)
 
 print('Temperature simulator finished')
+ 
